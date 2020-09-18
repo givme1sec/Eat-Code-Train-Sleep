@@ -13,4 +13,4 @@ Record Every Step.
 * `leetcode完成130题`
 * `biendata MOOCCube学生行为分析挑战赛：赛道一 项目开题`
 ##### 9月收获：
-<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-09/rank.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-09/rank.png" width="150" height="150" alt="图片加载失败"/>
