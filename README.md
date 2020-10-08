@@ -23,7 +23,8 @@ Record Every Step.
 从2019年末的寒假，至2020年10月2日，体重从72kg降到65kg，哭了，增肌之路漫漫，本月开始好好锻炼好好吃饭了
 
 * `leetcode完成130题`</br>
-<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/passed-202010.png" width="265" height="165" alt="图片加载失败"/></br>
+<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/passed_202010.png" width="265" height="165" alt="图片加载失败"/>
+<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/rank_202010.png" width="400" height="131" alt="图片加载失败"/></br>
 * `biendata MOOCCube学生行为分析挑战赛：赛道一`</br>
 初步结果0.8，10月开始提升acc
 <img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/biendata_rank.png" width="550" height="150" alt="图片加载失败"/>
