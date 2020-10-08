@@ -24,8 +24,9 @@ Record Every Step.
 
 * `leetcode完成130题`</br>
 <img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/passed_202010.png" width="265" height="165" alt="图片加载失败"/>
-<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/rank_202010.png" width="400" height="131" alt="图片加载失败"/></br>
-* `biendata MOOCCube学生行为分析挑战赛：赛道一`</br>
+<img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/rank_202010.png" width="400" height="131" alt="图片加载失败"/>
+
+* `biendata MOOCCube学生行为分析挑战赛：赛道一` 
 初步结果0.8，10月开始提升acc
 <img src="https://github.com/givme1sec/Eat-Code-Train-Sleep/blob/master/img/2020-10/biendata_rank.png" width="550" height="150" alt="图片加载失败"/>
 
